@@ -1,0 +1,549 @@
+{
+  "phone": [
+    {
+      "id": 1,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 13 128 گیگابایت",
+      "price": 34000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1659522827.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 2,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 12 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/6e25f9b57c920efd55f980d129614b18f83bd451_1669196767.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 3,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 11 128 گیگابایت",
+      "price": 20000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/0413e367b8dc86523251694dab894112c8753aee_1704009369.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 4,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 11 64 گیگابایت",
+      "price": 18000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/b3d660fd6a3946de6f822dc28455af8a9e22cd67_1691477390.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 5,
+      "category": "phone",
+      "enBrand": "samsung",
+      "faBrand": "سامسونگ",
+      "name": "گوشی سامسونگ Galaxy S22 128 گیگابایت",
+      "price": 35000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/a8234e915f4f6ed119daac830e39eca031d62c2d_1709403130.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 6,
+      "category": "phone",
+      "enBrand": "samsung",
+      "faBrand": "سامسونگ",
+      "name": "گوشی سامسونگ Galaxy S21 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/0f4dc2bc23d385252ffd99b295049a7e9197f5f1_1705749545.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 7,
+      "category": "phone",
+      "enBrand": "xiaomi",
+      "faBrand": "شیائومی",
+      "name": "گوشی شیائومی Redmi Note 10 128 گیگابایت",
+      "price": 25000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/a02408c516275b7f0d6eabcf6cd5a1c5ee568945_1687154731.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 8,
+      "category": "phone",
+      "enBrand": "xiaomi",
+      "faBrand": "شیائومی",
+      "name": "گوشی شیائومی Redmi Note 9 128 گیگابایت",
+      "price": 20000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/d7e17f55edb344476c7eccedb139980968984b33_1694436212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 9,
+      "category": "phone",
+      "enBrand": "huawei",
+      "faBrand": "هواوی",
+      "name": "گوشی هواوی P50 128 گیگابایت",
+      "price": 28000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/ae168409a0afa44e597e49eaeb04fce051a4e03d_1709645292.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 10,
+      "category": "phone",
+      "enBrand": "huawei",
+      "faBrand": "هواوی",
+      "name": "گوشی هواوی P40 128 گیگابایت",
+      "price": 23000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/c8e531474bb43bccffb4bf007be82c4d11a4a59f_1707129734.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 11,
+      "category": "phone",
+      "enBrand": "oneplus",
+      "faBrand": "وان پلاس",
+      "name": "گوشی وان پلاس 9 128 گیگابایت",
+      "price": 32000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/89840634d08e34e0a0de52a7c9f3d5f572cde7bc_1660137462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 12,
+      "category": "phone",
+      "enBrand": "oneplus",
+      "faBrand": "وان پلاس",
+      "name": "گوشی وان پلاس 8 128 گیگابایت",
+      "price": 27000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/41513f36ca8ed31b603737010b4a109c646f7f76_1707811518.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 13,
+      "category": "phone",
+      "enBrand": "google",
+      "faBrand": "گوگل",
+      "name": "گوشی گوگل Pixel 6 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/400e6c4f919c9b54edce6622537227d8d989133f_1707813406.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 14,
+      "category": "phone",
+      "enBrand": "google",
+      "faBrand": "گوگل",
+      "name": "گوشی گوگل Pixel 5 128 گیگابایت",
+      "price": 25000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/26e7480caad8ed663982d26354fff9be83bf30f2_1682334736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 15,
+      "category": "phone",
+      "enBrand": "oppo",
+      "faBrand": "اپو",
+      "name": "گوشی اپو Reno 7 128 گیگابایت",
+      "price": 29000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/5af3e37b4247f579add5e798c7c4c6750bbc5949_1707055306.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 16,
+      "category": "phone",
+      "enBrand": "oppo",
+      "faBrand": "اپو",
+      "name": "گوشی اپو Reno 6 128 گیگابایت",
+      "price": 24000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/85d560cd41bc49cf418025e2b812ff0d030b9b62_1676358350.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 17,
+      "category": "phone",
+      "enBrand": "realme",
+      "faBrand": "رئالمی",
+      "name": "گوشی رئالمی GT 128 گیگابایت",
+      "price": 28000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/68850fe3e653cae285cd0bc3b8d00ac802cc5dcd_1701263867.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 18,
+      "category": "phone",
+      "enBrand": "realme",
+      "faBrand": "رئالمی",
+      "name": "گوشی رئالمی X7 Max 128 گیگابایت",
+      "price": 23000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/3c4a91b0e9ed296b9d57ebf6c9220fc02e74eab8_1685459417.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 19,
+      "category": "phone",
+      "enBrand": "vivo",
+      "faBrand": "ویوو",
+      "name": "گوشی ویوو X70 Pro 128 گیگابایت",
+      "price": 31000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/587d32fe64a14ba3e63530196be0fc4d12355578_1701260413.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 20,
+      "category": "phone",
+      "enBrand": "vivo",
+      "faBrand": "ویوو",
+      "name": "گوشی ویوو X60 Pro 128 گیگابایت",
+      "price": 26000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/828582ac449436b9427afee8139a66c4c94b8ea0_1707733323.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 70,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 13 128 گیگابایت",
+      "price": 34000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1659522827.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 69,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 12 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/6e25f9b57c920efd55f980d129614b18f83bd451_1669196767.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 68,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 11 128 گیگابایت",
+      "price": 20000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/0413e367b8dc86523251694dab894112c8753aee_1704009369.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 67,
+      "category": "phone",
+      "enBrand": "iphone",
+      "faBrand": "اپل",
+      "name": "گوشی آیفون 11 64 گیگابایت",
+      "price": 18000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/b3d660fd6a3946de6f822dc28455af8a9e22cd67_1691477390.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 66,
+      "category": "phone",
+      "enBrand": "samsung",
+      "faBrand": "سامسونگ",
+      "name": "گوشی سامسونگ Galaxy S22 128 گیگابایت",
+      "price": 35000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/a8234e915f4f6ed119daac830e39eca031d62c2d_1709403130.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 65,
+      "category": "phone",
+      "enBrand": "samsung",
+      "faBrand": "سامسونگ",
+      "name": "گوشی سامسونگ Galaxy S21 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/0f4dc2bc23d385252ffd99b295049a7e9197f5f1_1705749545.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 64,
+      "category": "phone",
+      "enBrand": "xiaomi",
+      "faBrand": "شیائومی",
+      "name": "گوشی شیائومی Redmi Note 10 128 گیگابایت",
+      "price": 25000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/a02408c516275b7f0d6eabcf6cd5a1c5ee568945_1687154731.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 63,
+      "category": "phone",
+      "enBrand": "xiaomi",
+      "faBrand": "شیائومی",
+      "name": "گوشی شیائومی Redmi Note 9 128 گیگابایت",
+      "price": 20000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/d7e17f55edb344476c7eccedb139980968984b33_1694436212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 62,
+      "category": "phone",
+      "enBrand": "huawei",
+      "faBrand": "هواوی",
+      "name": "گوشی هواوی P50 128 گیگابایت",
+      "price": 28000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/ae168409a0afa44e597e49eaeb04fce051a4e03d_1709645292.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 61,
+      "category": "phone",
+      "enBrand": "huawei",
+      "faBrand": "هواوی",
+      "name": "گوشی هواوی P40 128 گیگابایت",
+      "price": 23000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/c8e531474bb43bccffb4bf007be82c4d11a4a59f_1707129734.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 60,
+      "category": "phone",
+      "enBrand": "oneplus",
+      "faBrand": "وان پلاس",
+      "name": "گوشی وان پلاس 9 128 گیگابایت",
+      "price": 32000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/89840634d08e34e0a0de52a7c9f3d5f572cde7bc_1660137462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 59,
+      "category": "phone",
+      "enBrand": "oneplus",
+      "faBrand": "وان پلاس",
+      "name": "گوشی وان پلاس 8 128 گیگابایت",
+      "price": 27000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/41513f36ca8ed31b603737010b4a109c646f7f76_1707811518.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 58,
+      "category": "phone",
+      "enBrand": "google",
+      "faBrand": "گوگل",
+      "name": "گوشی گوگل Pixel 6 128 گیگابایت",
+      "price": 30000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/400e6c4f919c9b54edce6622537227d8d989133f_1707813406.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 57,
+      "category": "phone",
+      "enBrand": "google",
+      "faBrand": "گوگل",
+      "name": "گوشی گوگل Pixel 5 128 گیگابایت",
+      "price": 25000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/26e7480caad8ed663982d26354fff9be83bf30f2_1682334736.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 56,
+      "category": "phone",
+      "enBrand": "oppo",
+      "faBrand": "اپو",
+      "name": "گوشی اپو Reno 7 128 گیگابایت",
+      "price": 29000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/5af3e37b4247f579add5e798c7c4c6750bbc5949_1707055306.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 55,
+      "category": "phone",
+      "enBrand": "oppo",
+      "faBrand": "اپو",
+      "name": "گوشی اپو Reno 6 128 گیگابایت",
+      "price": 24000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/85d560cd41bc49cf418025e2b812ff0d030b9b62_1676358350.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 54,
+      "category": "phone",
+      "enBrand": "realme",
+      "faBrand": "رئالمی",
+      "name": "گوشی رئالمی GT 128 گیگابایت",
+      "price": 28000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/68850fe3e653cae285cd0bc3b8d00ac802cc5dcd_1701263867.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 53,
+      "category": "phone",
+      "enBrand": "realme",
+      "faBrand": "رئالمی",
+      "name": "گوشی رئالمی X7 Max 128 گیگابایت",
+      "price": 23000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/3c4a91b0e9ed296b9d57ebf6c9220fc02e74eab8_1685459417.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 52,
+      "category": "phone",
+      "enBrand": "vivo",
+      "faBrand": "ویوو",
+      "name": "گوشی ویوو X70 Pro 128 گیگابایت",
+      "price": 31000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/587d32fe64a14ba3e63530196be0fc4d12355578_1701260413.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 51,
+      "category": "phone",
+      "enBrand": "vivo",
+      "faBrand": "ویوو",
+      "name": "گوشی ویوو X60 Pro 128 گیگابایت",
+      "price": 26000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/828582ac449436b9427afee8139a66c4c94b8ea0_1707733323.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    }
+  ],
+  "laptop": [
+    {
+      "id": 21,
+      "category": "laptop",
+      "enBrand": "lenovo",
+      "faBrand": "لنوو",
+      "name": "لپ تاپ لنوو ThinkPad X1 Carbon Gen 9 512 گیگابایت",
+      "price": 58000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/e5dfffed0fe58135b9787887394f4db17be8c5dc_1693397601.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+
+    {
+      "id": 22,
+      "category": "laptop",
+      "enBrand": "asus",
+      "faBrand": "ایسوس",
+      "name": "لپ تاپ ایسوس ROG Zephyrus G14 2022 512 گیگابایت",
+      "price": 57000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/dca223f31b7643ac23ec3edf79c7c8a9194cc3c5_1671474524.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 23,
+      "category": "laptop",
+      "enBrand": "msi",
+      "faBrand": "ام‌اس‌آی",
+      "name": "لپ تاپ ام‌اس‌آی GS66 Stealth 512 گیگابایت",
+      "price": 62000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/3923a4e28aedf0e5fe77d28fee4b62125b38898e_1705779358.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 24,
+      "category": "laptop",
+      "enBrand": "razer",
+      "faBrand": "ریزر",
+      "name": "لپ تاپ ریزر Blade 15 2022 512 گیگابایت",
+      "price": 63000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/f9d556a68cc4a507cc80981935cf68ae2e3d7711_1690028248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 25,
+      "category": "laptop",
+      "enBrand": "acer",
+      "faBrand": "ایسر",
+      "name": "لپ تاپ ایسر Predator Helios 300 2022 512 گیگابایت",
+      "price": 54000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/41d43012149f70c0f9bc1f3d9619b6746cc29674_1693306549.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 26,
+      "category": "laptop",
+      "enBrand": "lg",
+      "faBrand": "ال‌جی",
+      "name": "لپ تاپ ال‌جی Gram 17 2022 512 گیگابایت",
+      "price": 55000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/c8bbb4a44f40f205e7df5f68c9935283af1df7b5_1702409702.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 27,
+      "category": "laptop",
+      "enBrand": "microsoft",
+      "faBrand": "مایکروسافت",
+      "name": "لپ تاپ مایکروسافت Surface Laptop 4 512 گیگابایت",
+      "price": 59000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/951d4b27eec4923631c20acd227679d4a7f6110d_1690286963.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 28,
+      "category": "laptop",
+      "enBrand": "huawei",
+      "faBrand": "هواوی",
+      "name": "لپ تاپ هواوی MateBook X Pro 2022 512 گیگابایت",
+      "price": 57000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/fbaad557b08bff79e4203da678cb57c20400dfc7_1705908994.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 29,
+      "category": "laptop",
+      "enBrand": "google",
+      "faBrand": "گوگل",
+      "name": "لپ تاپ گوگل Pixelbook Go 2022 512 گیگابایت",
+      "price": 56000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/603cab19a79547b5b1224766249e86cec719e845_1705909262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 30,
+      "category": "laptop",
+      "enBrand": "lenovo",
+      "faBrand": "لنوو",
+      "name": "لپ تاپ لنوو Legion 5 Pro 2022 512 گیگابایت",
+      "price": 61000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/b22775df2c593e6342f7581fb5918501319b4daf_1706987746.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    }
+  ],
+  "watch": [
+    {
+      "id": 31,
+      "category": "watch",
+      "enBrand": "fitbit",
+      "faBrand": "فیتبیت",
+      "name": "ساعت هوشمند فیتبیت Versa 3",
+      "price": 3000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/120584116.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 32,
+      "category": "watch",
+      "enBrand": "garmin",
+      "faBrand": "گارمین",
+      "name": "ساعت هوشمند گارمین Fenix 6 Pro",
+      "price": 5000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/bcc1cae9ae64e4a991560992444007a2691aabb7_1611396617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 33,
+      "category": "watch",
+      "enBrand": "suunto",
+      "faBrand": "سونتو",
+      "name": "ساعت هوشمند سونتو 7",
+      "price": 4000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/1c948b3b4d852feb95c61e66c6fef11471246885_1664214066.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 34,
+      "category": "watch",
+      "enBrand": "polar",
+      "faBrand": "پولار",
+      "name": "ساعت هوشمند پولار Vantage V2",
+      "price": 4500000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/fb8bfe0440182ed2bd4de5ae59fbad53a725fed0_1632391444.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 35,
+      "category": "watch",
+      "enBrand": "xiaomi",
+      "faBrand": "شیائومی",
+      "name": "ساعت هوشمند شیائومی Mi Watch Revolve",
+      "price": 2500000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/195c1973e8d2d24705f3686da6bba6825807eba6_1632396195.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 36,
+      "category": "watch",
+      "enBrand": "samsung",
+      "faBrand": "سامسونگ",
+      "name": "ساعت هوشمند سامسونگ Galaxy Watch Active 2",
+      "price": 3500000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/28540f0c8113a60b3f4118d9fdbf7a513c8ff3d1_1601024552.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 37,
+      "category": "watch",
+      "enBrand": "apple",
+      "faBrand": "اپل",
+      "name": "ساعت هوشمند اپل Watch SE GPS",
+      "price": 2000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/4440014.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 38,
+      "category": "watch",
+      "enBrand": "garmin",
+      "faBrand": "گارمین",
+      "name": "ساعت هوشمند گارمین Forerunner 945",
+      "price": 6000000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/113327271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 39,
+      "category": "watch",
+      "enBrand": "fitbit",
+      "faBrand": "فیتبیت",
+      "name": "ساعت هوشمند فیتبیت Charge 5",
+      "price": 3500000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/c7e3e4a095e771a33c17c159b38c195057775f90_1705101710.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    },
+    {
+      "id": 40,
+      "category": "watch",
+      "enBrand": "suunto",
+      "faBrand": "سونتو",
+      "name": "x",
+      "price": 450000,
+      "imageSrc": "https://dkstatics-public.digikala.com/digikala-products/ccac505b9a91e69ee2fa0df2d40110ee4766c588_1636824226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+    }
+  ]
+}
