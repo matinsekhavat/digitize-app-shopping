@@ -1,8 +1,21 @@
-# React + Vite
+## Digitize shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 0-100 of this project + ui desigened & Developed by Matin Sekhavat
 
-Currently, two official plugins are available:
+### preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+you can see the demo here in vercel <a href="https://digitize-app-shopping.vercel.app/">Here</a>
+you can see the demo here in liara <a href="https://digitize-shop.liara.run/">Here</a>
+
+### features
+
+1. react-query
+2. real time data fetching
+3. tailwind css
+4. clean code + good folder structure
+5. context-api
+6. react-hot-toast
+7. DARK-MODE
+8. ...
+
+# this is version 1.1 i'm gonna add so many features like filtering system
