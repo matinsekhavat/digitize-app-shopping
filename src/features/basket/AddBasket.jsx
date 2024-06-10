@@ -3,6 +3,7 @@ import { e2p } from "../../utils/numConvertor";
 import Toman from "../../ui/Toman";
 import { useBasket } from "../../Context/BasketProvider";
 import { useNavigate } from "react-router-dom";
+import toast from "react-hot-toast";
 function AddBasket({ price, data, isInProduct }) {
   const { addToBasket, basket } = useBasket();
   const navigate = useNavigate();
@@ -21,7 +22,10 @@ function AddBasket({ price, data, isInProduct }) {
         </button>
       ) : (
         <button
-          onClick={() => addToBasket({ ...data, quantity: 1 })}
+          onClick={() => {
+            addToBasket({ ...data, quantity: 1 });
+            toast.success(" محصول به سبد شما اضافه شد.");
+          }}
           className="bg-orange-500 text-white text-center py-2 px-4 w-full rounded-md"
         >
           اضافه به سبد خرید
