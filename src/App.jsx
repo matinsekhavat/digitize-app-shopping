@@ -1,17 +1,27 @@
 import AppLayout from "./ui/AppLayout";
 import FilterProvider from "./Context/FilterProvider";
-import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter,
+  HashRouter,
+  Navigate,
+  Route,
+  Routes,
+} from "react-router-dom";
 import Product from "./pages/Product";
 import Products from "./features/products/Products";
 import Checkout from "./pages/Checkout";
 import BasketProvider from "./Context/BasketProvider";
 import NotFind from "./pages/NotFind";
+import { useEffect } from "react";
+import { Toaster } from "react-hot-toast";
 
 function App() {
+  useEffect(() => alert("فیچر های پروژه در دست توسعه میباشد."), []);
   return (
-    <HashRouter>
+    <BrowserRouter>
       <FilterProvider>
         <BasketProvider>
+          <Toaster />
           <Routes>
             <Route element={<AppLayout />}>
               <Route path="/" element={<Navigate to="/products" />} />
@@ -23,7 +33,7 @@ function App() {
           </Routes>
         </BasketProvider>
       </FilterProvider>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
