@@ -1,12 +1,6 @@
 import AppLayout from "./ui/AppLayout";
 import FilterProvider from "./Context/FilterProvider";
-import {
-  BrowserRouter,
-  HashRouter,
-  Navigate,
-  Route,
-  Routes,
-} from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Product from "./pages/Product";
 import Products from "./features/products/Products";
 import Checkout from "./pages/Checkout";
