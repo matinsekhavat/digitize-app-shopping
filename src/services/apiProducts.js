@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instanceAxios = axios.create({
-  baseURL: "https://localhost/4000",
+  baseURL: "https://digitize-api.liara.run/",
 });
 
 async function getProduct({ queryKey }) {
