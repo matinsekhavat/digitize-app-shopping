@@ -5,7 +5,7 @@ import { useBasket } from "../../Context/BasketProvider";
 import { useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 function AddBasket({ price, data, isInProduct }) {
-  const { addToBasket, basket } = useBasket();
+  const { addToBasket } = useBasket();
   const navigate = useNavigate();
   return (
     <div className=" my-4 md:mb-0 text-center flex flex-col gap-2 font-vazirBold text-xl text-orange-700 dark:text-slate-800">
