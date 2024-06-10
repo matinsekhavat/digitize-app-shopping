@@ -2,6 +2,8 @@ import { IoCloseSharp } from "react-icons/io5";
 import { e2p } from "../../utils/numConvertor";
 import { useBasket } from "../../Context/BasketProvider";
 import { Link } from "react-router-dom";
+import toast from "react-hot-toast";
+
 function CheckoutItem({ product }) {
   const { increaseProductQuantity, decreaseProductQuantity, removeProduct } =
     useBasket();
@@ -27,7 +29,10 @@ function CheckoutItem({ product }) {
       {/* Left side */}
       <div className="flex flex-col justify-between items-end">
         <button
-          onClick={() => removeProduct(product.id)}
+          onClick={() => {
+            removeProduct(product.id);
+            toast.success("محصول با موفقیت از سبد شما حذف شد");
+          }}
           className="flex justify-center items-center text-3xl text-red-500  rounded-full"
         >
           <IoCloseSharp />
