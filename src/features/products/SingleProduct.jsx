@@ -1,4 +1,3 @@
-import React from "react";
 import ColorGroup from "../../ui/ColorGroup";
 import { e2p } from "../../utils/numConvertor";
 import { Link } from "react-router-dom";
@@ -9,7 +8,7 @@ function SingleProduct({ product }) {
   const { selectedCategory } = useFilter();
   return (
     <div
-      className="bg-white p-2 mt-2 rounded-md flex flex-col justify-between dark:bg-slate-500
+      className="bg-white p-2 mt-2 rounded-md flex flex-col justify-between dark:bg-slate-900 dark:text-white
     "
     >
       {/* product image */}
@@ -40,7 +39,7 @@ function SingleProduct({ product }) {
         to={`/product/${selectedCategory}/${product.id}`}
         className="text-center pb-2 pt-4 border-t mt-4 font-bold text-lg block"
       >
-        <span className="text-orange-400  dark:text-slate-950 font-vazirBold">
+        <span className="text-orange-400  dark:text-slate-100 font-vazirBold">
           مشاهده و سفارش
         </span>
       </Link>
