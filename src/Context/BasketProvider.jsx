@@ -4,9 +4,19 @@ const BasketContext = createContext();
 
 function BasketProvider({ children }) {
   const [basket, setBasket] = useState(() => {
-    const basket = JSON.parse(localStorage.getItem("basket") || []);
-    return basket;
+    const storedBasket = localStorage.getItem("basket");
+    if (storedBasket) {
+      try {
+        return JSON.parse(storedBasket);
+      } catch (error) {
+        console.error("Error parsing stored basket:", error);
+        return [];
+      }
+    } else {
+      return [];
+    }
   });
+
   useEffect(() => {
     localStorage.setItem("basket", JSON.stringify(basket));
   }, [basket]);
@@ -17,13 +27,14 @@ function BasketProvider({ children }) {
 
   function increaseProductQuantity(id) {
     const newBasket = basket.map((product) =>
-      product.id == id
+      product.id === id
         ? { ...product, quantity: product.quantity + 1 }
         : product
     );
 
     setBasket(newBasket);
   }
+
   const decreaseProductQuantity = (id) => {
     const newBasket = basket
       .map((product) =>
@@ -40,7 +51,7 @@ function BasketProvider({ children }) {
   };
 
   function removeProduct(id) {
-    const newBasket = basket.filter((product) => product.id != id);
+    const newBasket = basket.filter((product) => product.id !== id);
     setBasket(newBasket);
   }
 
@@ -61,7 +72,7 @@ function BasketProvider({ children }) {
 
 function useBasket() {
   const context = useContext(BasketContext);
-  if (context === undefined) throw new Error("useBasket is outof zone");
+  if (context === undefined) throw new Error("useBasket is out of zone");
   return context;
 }
 
